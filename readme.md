@@ -1,5 +1,7 @@
 # 🐞 Squad 06 – BugBusters
 
+![Demonstração do Teste](cypress/busca.cy.js.png)
+
 Projeto desenvolvido com foco em **Qualidade de Software (QA)**, utilizando **testes automatizados de interface web (UI)** para validar funcionalidades da plataforma **The Movie Database**.
 
 ---
