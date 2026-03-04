@@ -2,6 +2,10 @@
 
 ![Demonstração do Teste](cypress/images/busca.cy.js.jpg)
 
+## 🎬 Demonstração em Ação
+
+![Teste em Execução](cypress/images/busca.cy.js.gif)
+
 Projeto desenvolvido com foco em **Qualidade de Software (QA)**, utilizando **testes automatizados de interface web (UI)** para validar funcionalidades da plataforma **The Movie Database**.
 
 ---
@@ -101,15 +105,7 @@ npx cypress run
 
 ---
 
-## � Demonstração do Teste em Execução
-
-Veja abaixo uma gravação da execução dos testes automatizados:
-
-https://github.com/weberfern/Quality-Assurance---Bootcamp-Atlantico-Avanti/assets/raw/main/cypress/videos/busca.cy.js.mp4
-
----
-
-## �📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 ```
 Squad_06_BugBusters/
