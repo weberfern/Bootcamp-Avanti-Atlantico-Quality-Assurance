@@ -45,7 +45,6 @@ Squad_06_BugBusters/
 │   │       ├── searchMovies2.cy.js   # CT-SEARCH-002
 │   │       └── searchMovies3.cy.js   # CT-SEARCH-003
 │   ├── fixtures/
-│   │   └── example.json
 │   ├── images/
 │   ├── pages/
 │   │   └── searchMovies-page.js      # Page Object com comandos
@@ -53,6 +52,7 @@ Squad_06_BugBusters/
 │       ├── commands.js
 │       └── e2e.js
 ├── cypress.config.js
+├── package-lock.json
 ├── package.json
 └── readme.md
 ```
@@ -205,48 +205,6 @@ ISC
 ## 🔗 Repositório
 
 [GitHub - Quality Assurance Bootcamp Atlântico Avanti](https://github.com/weberfern/Quality-Assurance---Bootcamp-Atlantico-Avanti.git)
-
-### ⚠️ CT-SEARCH-003 – Campo de busca vazio
-
-* Submeter campo sem texto
-* Validar comportamento do sistema
-
----
-
-## 📂 Estrutura do Projeto
-
-```
-Squad_06_BugBusters/
-│
-├── cypress.config.js
-├── package.json
-├── readme.md
-│
-└── cypress/
-    ├── e2e/
-    │   ├── ct-search-001.cy.js
-    │   ├── ct-search-002.cy.js
-    │   └── ct-search-003.cy.js
-    │
-    ├── fixtures/
-    │   └── example.json
-    │
-    ├── images/
-    │
-    └── support/
-        ├── commands.js
-        └── e2e.js
-```
-
----
-
-## 🎯 Tipo de Teste
-
-* Teste Funcional
-* Teste de Interface (UI)
-* Teste Automatizado
-
----
 
 ## 📊 Ambiente de Teste
 
