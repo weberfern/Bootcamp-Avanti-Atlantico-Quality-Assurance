@@ -82,7 +82,7 @@ git --version
 ### 📥 2. Clonar o Repositório
 
 ```bash
-git clone https://github.com/Eliveltonmoura/Squad_06_BugBusters.git
+git clone https://github.com/weberfern/Bootcamp-Avanti-Atlantico-Quality-Assurance.git
 cd "Squad_06_BugBusters"
 ```
 
